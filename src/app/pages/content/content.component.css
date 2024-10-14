@@ -22,6 +22,11 @@
   margin-top: 15px
 }
 .content__description > p{
+  max-width: 900px;
   margin-top: 20px;
+  text-align: justify;
   color: rgb(160, 159, 159);
+}
+.container__button{
+  margin-top: 20px;
 }
